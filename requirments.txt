@@ -7,4 +7,3 @@ python_dotenv
 langgraph
 uvicorn
 fastapi
-langchain-tavily
